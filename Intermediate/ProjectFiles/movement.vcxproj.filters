@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\movement.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{ABA87B3D-E1FB-4E24-B0FD-E3B973CE6E75}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\movement.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\movementEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{5B6B4AB3-E6D5-4118-844D-502E22CB2124}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\movement">
+			<UniqueIdentifier>{1B0D7C65-DDE2-496D-876F-6B9052D3C1E2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\movement\movement.Build.cs">
+			<Filter>Source\movement</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\movement\movement.cpp">
+			<Filter>Source\movement</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\movement\movement.h">
+			<Filter>Source\movement</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\movement\movementCharacter.cpp">
+			<Filter>Source\movement</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\movement\movementCharacter.h">
+			<Filter>Source\movement</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\movement\movementGameMode.cpp">
+			<Filter>Source\movement</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\movement\movementGameMode.h">
+			<Filter>Source\movement</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

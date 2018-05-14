@@ -1,0 +1,3 @@
+C:\Users\diamondrubix\Documents\Unreal Projects\movement\Source\movement\movement.Build.cs
+C:\Users\diamondrubix\Documents\Unreal Projects\movement\Source\movement.Target.cs
+C:\Users\diamondrubix\Documents\Unreal Projects\movement\Source\movementEditor.Target.cs
